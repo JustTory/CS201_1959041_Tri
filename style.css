@@ -1,0 +1,147 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cur-lang-list {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.nav-icon {
+  border-radius: 50% !important;
+  width: 30px;
+  height: 30px;
+}
+
+.nav-logo {
+  border-radius: 50% !important;
+  width: 60px;
+  height: 60px;
+}
+
+.nav-2-items {
+  color: #17a2b8;
+}
+
+.carousel-item {
+  height: 60vh;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sale-wrapper {
+  height: 25vh;
+}
+.card-sale-wrapper {
+  background-color: rgb(255, 71, 132);
+}
+
+.card-img-wrapper {
+  height: 100%;
+}
+
+.card-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product-wrapper {
+  position: relative;
+}
+
+.slider-arrow {
+  background: none;
+  position: absolute;
+  overflow: visible;
+}
+.rightcenter {
+  right: 0rem;
+  top: 50%;
+  bottom: auto;
+}
+.leftcenter {
+  left: 0rem;
+  top: 50%;
+  bottom: auto;
+}
+.auto {
+  display: none;
+}
+
+.color-primary {
+  color: #34c5db;
+}
+
+.card-sale-wrapper > * {
+  color: white;
+}
+
+.product-title {
+  font-size: 0.8rem;
+}
+
+.product-img-wrapper {
+  height: 50%;
+  padding: 10px;
+}
+
+.my-slider {
+  height: 40vh;
+}
+
+#tns1 > .tns-item {
+  padding-right: 0 !important;
+}
+
+.product-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.product {
+  position: relative;
+}
+.product-price {
+  color: red;
+  position:absolute;
+  bottom: 0;
+  left: 40%;
+}
+
+.bg-blue {
+  background: #17a2b8;
+}
+
+.font-para {
+  font-size: 0.7rem;
+}
+
+.service-logo {
+  color: white;
+}
+
+.main {
+  background: rgb(247, 247, 247);
+}
+
+.footer-title {
+  font-weight: bold;
+}
+.list-footer{
+  list-style: none;
+}
+.list-footer > *{
+  font-size: 0.8rem;
+  color: gray;
+}
