@@ -12,6 +12,10 @@ p {
   border: none !important;
 }
 
+.sale-wrapper.container.mt-5 {
+  height: fit-content;
+}
+
 .nav-icon {
   border-radius: 50% !important;
   width: 30px;
